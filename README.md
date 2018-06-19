@@ -26,6 +26,7 @@ git submodule init
 git submodule update
 ```
 ### An alternative approach
-If you don't have an access to a terminal, you can download the package as a zip file from [here](https://github.com/epfl-lasa/RSS2018Tutorial/releases)
+If you don't have an access to a terminal, you can download the package as a zip-file from [here](https://github.com/epfl-lasa/RSS2018Tutorial/releases).
+
 # Contact information
 For more information contact Nadia Figueroa or Sina Mirrazavi.
