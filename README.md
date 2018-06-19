@@ -23,6 +23,7 @@ Then you need to initialize the submodules. So:
 ```
 cd RSS2018Tutorial
 git submodule init
+git submodule update
 ```
 
 # Contact information
