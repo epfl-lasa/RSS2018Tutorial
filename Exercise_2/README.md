@@ -12,8 +12,9 @@ in making stable contacts with a flat/planar surface. You can find a use case st
 
 
 # How to run
-In order to run the program, you simply need to run the [gui_Cods.m](https://github.com/sinamr66/CoDS_illuastrative_example/blob/GUI_guid/gui_Cods.m)
-Then follow the instructions given in the package.
+In order to run the program, you simply need to run the [gui_Cods.m](https://github.com/sinamr66/CoDS_illuastrative_example/blob/GUI_guid/gui_Cods.m). A guided video explaining how to run/use the package can be find in the following link:
+
+[https://www.youtube.com/embed/eAcXKDPbpZg](https://www.youtube.com/embed/eAcXKDPbpZg)
 
 
 # Contact information
