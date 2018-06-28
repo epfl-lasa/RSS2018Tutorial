@@ -19,12 +19,17 @@ git clone https://github.com/epfl-lasa/RSS2018Tutorial.git
 ```
 
 Then you need to initialize the submodules. So:
-
 ```
 cd RSS2018Tutorial
 git submodule init
 git submodule update
 ```
+
+If not all submodule are installed, try the following command:
+```
+git submodule update --init --recursive
+```
+
 ### An alternative approach
 If you don't have an access to a terminal, you can download the package as a zip-file from [here](https://github.com/epfl-lasa/RSS2018Tutorial/releases).
 
