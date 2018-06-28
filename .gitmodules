@@ -1,6 +1,6 @@
 [submodule "Exercise_2/CoDS_illustrative_example"]
 	path = Exercise_2/CoDS_illustrative_example
-	url = git@github.com:sinamr66/CoDS_illustrative_example.git
+	url = https://github.com/sinamr66/CoDS_illustrative_example.git
 [submodule "Exercise_1/learning-ds-tutorial"]
 	path = Exercise_1/learning-ds-tutorial
 	url = https://github.com/nbfigueroa/learning-ds-tutorial.git
