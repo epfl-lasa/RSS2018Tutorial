@@ -3,4 +3,4 @@
 	url = git@github.com:sinamr66/CoDS_illustrative_example.git
 [submodule "Exercise_1/learning-ds-tutorial"]
 	path = Exercise_1/learning-ds-tutorial
-	url = git@github.com:nbfigueroa/learning-ds-tutorial.git
+	url = https://github.com/nbfigueroa/learning-ds-tutorial.git
